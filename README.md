@@ -14,7 +14,7 @@ As being a Data and ML enthusiast I have tried many different projects related t
  This Project is mainly divided into two parts:
  
  1. Exploring the dataset and traning the model using `Sklearn`.
- 2. Building and hosting a `flask` web app on `Heroku`.
+ 2. Building a `flask` web app.
 
 **About the repository Structure :**
 
